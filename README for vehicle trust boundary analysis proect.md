@@ -32,3 +32,4 @@ and demonstrates how attackers pivot from low-trust ECUs to safety-critical syst
 
 ## Disclaimer
 Educational analysis only. No real vehicle systems are targeted.
+This repository is part of my structured upskilling in Automotive Cybersecurity.
